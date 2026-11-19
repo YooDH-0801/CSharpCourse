@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\note.csproj",
+      "projectUniqueName": "C:\\게임개발계좌제\\@CSharpCourse\\src\\note\\note\\note.csproj",
       "projectName": "note",
-      "projectPath": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\note.csproj",
+      "projectPath": "C:\\게임개발계좌제\\@CSharpCourse\\src\\note\\note\\note.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\obj\\",
+      "outputPath": "C:\\게임개발계좌제\\@CSharpCourse\\src\\note\\note\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.321/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
