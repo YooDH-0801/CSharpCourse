@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Yoodh\\CSharpCourse\\src\\note\\",
+  "WorkspaceRootPath": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACD01E74-B516-44E6-95FB-C18A0BA09D61}|note\\note.csproj|c:\\yoodh\\csharpcourse\\src\\note\\note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD01E74-B516-44E6-95FB-C18A0BA09D61}|note\\note.csproj|solutionrelative:note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|c:\\yoodh\\@csharpcourse\\src\\note\\note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|c:\\yoodh\\@csharpcourse\\src\\note\\note\\part1\\2-1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|solutionrelative:part1\\2-1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|c:\\yoodh\\@csharpcourse\\src\\note\\note\\part1\\2-1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848C8267-B041-6A49-5839-ECF0598EA4F0}|note.csproj|solutionrelative:part1\\2-1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 267,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Yoodh\\CSharpCourse\\src\\note\\note\\Program.cs",
-              "RelativeDocumentMoniker": "note\\Program.cs",
-              "ToolTip": "C:\\Yoodh\\CSharpCourse\\src\\note\\note\\Program.cs",
-              "RelativeToolTip": "note\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-19T03:52:55.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2-1-1.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Part1\\2-1-1.cs",
+              "RelativeDocumentMoniker": "Part1\\2-1-1.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Part1\\2-1-1.cs",
+              "RelativeToolTip": "Part1\\2-1-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:06:17.312Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2-1-2.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Part1\\2-1-2.cs",
+              "RelativeDocumentMoniker": "Part1\\2-1-2.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\note\\note\\Part1\\2-1-2.cs",
+              "RelativeToolTip": "Part1\\2-1-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:20:45.685Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|c:\\yoodh\\@csharpcourse\\src\\textrpg\\textrpg\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|c:\\yoodh\\@csharpcourse\\src\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|c:\\yoodh\\@csharpcourse\\src\\textrpg\\textrpg\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|c:\\yoodh\\@csharpcourse\\src\\textrpg\\textrpg\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|c:\\yoodh\\@csharpcourse\\src\\textrpg\\textrpg\\models\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC76DFE3-B09F-423B-8E78-46306CDE9949}|TextRpg\\TextRpg.csproj|solutionrelative:textrpg\\models\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Program.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Program.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Program.cs",
+              "RelativeToolTip": "TextRpg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:06:57.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Game.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Game.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Game.cs",
+              "RelativeToolTip": "TextRpg\\Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:07:36.801Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Models\\Job.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Job.cs",
+              "RelativeToolTip": "TextRpg\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:39:10.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Models\\Character.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Character.cs",
+              "RelativeToolTip": "TextRpg\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:39:46.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Health.cs",
+              "RelativeDocumentMoniker": "TextRpg\\Models\\Health.cs",
+              "ToolTip": "C:\\Yoodh\\@CSharpCourse\\src\\TextRpg\\TextRpg\\Models\\Health.cs",
+              "RelativeToolTip": "TextRpg\\Models\\Health.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:40:22.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
