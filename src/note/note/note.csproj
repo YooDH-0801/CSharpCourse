@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Enums.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="데이터의흐름제어.cs" />
+    <Compile Remove="반복문.cs" />
+  </ItemGroup>
+
 </Project>

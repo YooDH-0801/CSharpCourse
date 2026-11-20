@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|c:\\yoodh\\csharpcourse\\src\\task_textrpg\\task_textrpg\\core\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|solutionrelative:task_textrpg\\core\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|c:\\yoodh\\csharpcourse\\src\\task_textrpg\\task_textrpg\\core\\scene\\sceneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|solutionrelative:task_textrpg\\core\\scene\\sceneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|c:\\yoodh\\csharpcourse\\src\\task_textrpg\\task_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|solutionrelative:task_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|c:\\yoodh\\csharpcourse\\src\\task_textrpg\\task_textrpg\\core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB330B88-717E-4F19-8DBD-2614F039F9F9}|Task_TextRPG\\Task_TextRPG.csproj|solutionrelative:task_textrpg\\core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Program.cs",
               "RelativeDocumentMoniker": "Task_TextRPG\\Program.cs",
               "ToolTip": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Program.cs",
               "RelativeToolTip": "Task_TextRPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-20T03:37:50.082Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Game.cs",
+              "RelativeDocumentMoniker": "Task_TextRPG\\Core\\Game.cs",
+              "ToolTip": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Game.cs",
+              "RelativeToolTip": "Task_TextRPG\\Core\\Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T03:39:06.087Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneService.cs",
+              "DocumentMoniker": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Scene\\SceneService.cs",
+              "RelativeDocumentMoniker": "Task_TextRPG\\Core\\Scene\\SceneService.cs",
+              "ToolTip": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Scene\\SceneService.cs",
+              "RelativeToolTip": "Task_TextRPG\\Core\\Scene\\SceneService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T03:55:11.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Scene\\Scene.cs",
+              "RelativeDocumentMoniker": "Task_TextRPG\\Core\\Scene\\Scene.cs",
+              "ToolTip": "C:\\Yoodh\\CSharpCourse\\src\\Task_TextRPG\\Task_TextRPG\\Core\\Scene\\Scene.cs",
+              "RelativeToolTip": "Task_TextRPG\\Core\\Scene\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T03:56:32.052Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
